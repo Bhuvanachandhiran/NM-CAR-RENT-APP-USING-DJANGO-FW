@@ -1,14 +1,14 @@
-Car Rental Application
-Overview
+##Car Rental Application
+#Overview
 This is a project for a car rental application built using the Django framework. The application allows users to rent cars for a specified duration, view available cars, manage their bookings, and more.
 
-Features
+#Features
 User Authentication: Users can sign up, log in, and manage their profile.
 Car Listings: View available cars with details such as model, year, price, etc.
 Booking Management: Users can make, view, and cancel their bookings.
 Admin Panel: Admins can manage cars, bookings, users, and more.
 Responsive Design: The application is designed to work seamlessly on various devices.
-Technologies Used
+#Technologies Used
 Django: Python-based web framework for rapid development.
 HTML/CSS: Frontend design and styling.
 Bootstrap: Frontend framework for responsive design.
