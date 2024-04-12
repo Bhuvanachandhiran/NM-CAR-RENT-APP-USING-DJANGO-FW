@@ -26,10 +26,10 @@ This project is a car rental application developed using the Django web framewor
    ![booking form](screenshots/reservation_form.png)
 
 4. contact form:
-   ![User Dashboard](screenshots/user_dashboard.png)
+   ![contact form](screenshots/user_dashboard.png)
 
 5. about us:
-   ![Admin Panel](screenshots/admin_panel.png)
+   ![about us](screenshots/admin_panel.png)
 
 ---
 
