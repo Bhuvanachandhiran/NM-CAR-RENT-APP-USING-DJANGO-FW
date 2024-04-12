@@ -14,42 +14,7 @@ This project is a car rental application developed using the Django web framewor
 4. Manage Bookings: Users can view their current and past bookings, including details like rental duration and total cost.
 5. Admin Panel: Admins can manage cars, bookings, and users through an intuitive admin interface provided by Django.
 
----
-
-**Installation:**
-1. Clone the repository:
-   ```
-   git clone https://github.com/yourusername/car-rental-app.git
-   ```
-
-2. Navigate to the project directory:
-   ```
-   cd car-rental-app
-   ```
-
-3. Install dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-
-4. Apply migrations:
-   ```
-   python manage.py migrate
-   ```
-
-5. Create a superuser:
-   ```
-   python manage.py createsuperuser
-   ```
-
-6. Run the development server:
-   ```
-   python manage.py runserver
-   ```
-
-7. Access the application at http://localhost:8000/ in your web browser.
-
----
+--- 
 
 **Screenshots:**
 1. Landing Page:
