@@ -14,22 +14,21 @@ This project is a car rental application developed using the Django web framewor
 4. Manage Bookings: Users can view their current and past bookings, including details like rental duration and total cost.
 5. Admin Panel: Admins can manage cars, bookings, and users through an intuitive admin interface provided by Django.
 
---- 
-
+---
 **Screenshots:**
-1. Landing Page:
-   ![Landing Page](screenshots/landing_page.png)
+1. home page:
+   ![home page](screenshots/landing_page.png)
 
 2. Car Listings:
    ![Car Listings](screenshots/car_listings.png)
 
-3. Reservation Form:
-   ![Reservation Form](screenshots/reservation_form.png)
+3. booking Form:
+   ![booking form](screenshots/reservation_form.png)
 
-4. User Dashboard:
+4. contact form:
    ![User Dashboard](screenshots/user_dashboard.png)
 
-5. Admin Panel:
+5. about us:
    ![Admin Panel](screenshots/admin_panel.png)
 
 ---
