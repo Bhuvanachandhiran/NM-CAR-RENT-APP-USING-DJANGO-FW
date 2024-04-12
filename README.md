@@ -17,7 +17,7 @@ This project is a car rental application developed using the Django web framewor
 ---
 **Screenshots:**
 1. home page:
-   ![home page](screenshots/landing_page.png)
+   ![home page](SCREENSHOTS_output/home_main.png)
 
 2. Car Listings:
    ![Car Listings](screenshots/car_listings.png)
