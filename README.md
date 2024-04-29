@@ -38,6 +38,6 @@ This project is a car rental application developed using the Django web framewor
 ---
 
 **Presentation:**
-A PowerPoint presentation containing an overview of the project, its features, architecture, and future enhancements, along with the screenshots, is available ![here](Car Rentals Application with Django Framework - SRI.pptx).
+A PowerPoint presentation containing an overview of the project, its features, architecture, and future enhancements, along with the screenshots, is available ![here](PPT/Car Rentals Application with Django Framework - bhuvan 422721104009.pptx).
 
 ---
