@@ -32,7 +32,7 @@ This project is a car rental application developed using the Django web framewor
    ![about us](SCREENSHOTS_output/About_us.png)
    
 6. submit form:
-   ![submit form](SCREENSHOTS_output/Submit_form.png)   
+   ![submit form](SCREENSHOTS_output/Submit_form.png)
    
 
 ---
